@@ -1,0 +1,110 @@
+.navbar {
+  	width: 100%;
+  	background-color: #FF69B4;
+  	overflow: auto;
+}
+
+.navbar a {
+  	float: left;
+ 	padding-left: 0px;
+	padding-right: 0px;
+	padding-top: 12px;
+	padding-bottom: 12px;
+  	color: white;
+ 	text-decoration: none;
+  	font-size: 17px;
+  	width: 20%; 
+ 	text-align: center;
+}
+
+.navbar a:hover {
+	background-color: #0FFFFF;
+}
+
+@media screen and (max-width: 500px) {
+ 	.navbar a {
+    		float: none;
+    		display: block;
+    		width: 100%;
+    		text-align: left;
+	}
+}
+
+.header {
+	display: inline;
+}
+
+#wordsLogo {
+	height: 150px;
+	width: 325px;
+}
+
+#factoryLogo {
+	float: right;
+	height: 150px;
+	width: 150px;
+}
+
+.photo {
+	float: right;
+}
+
+.careerReady {
+	display: flex;
+}
+
+.Kathryn {
+	display: flex;
+}
+
+.Millie {
+	display: flex;
+}
+
+.Lucy {
+	display: flex;
+}
+
+.Poppy {
+	display: flex;
+}
+
+.Kacie {
+	display: flex;
+}
+
+.Dominika {
+	display: flex;
+}
+
+.Kornelia {
+	display: flex;
+}
+
+.Wiktoria {
+	display: flex;
+}
+
+.exhibition {
+	display: flex;
+}
+
+.keiller {
+	display: flex;
+}
+
+.factory {
+	display: flex;
+}
+
+.Andy {
+	display: flex;
+}
+
+.Frida {
+	display: flex;
+}
+
+.Jean {
+	display: flex;
+}
